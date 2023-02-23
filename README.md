@@ -1,16 +1,44 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**tmjonker/tmjonker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Tim Jonker, a software developer based in [Manassas, VA]. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨‍💻 Technologies and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I primarily work with the following technologies and tools:
+
+- Java
+- Spring Boot
+- JavaScript
+- React
+- Angular
+- HTML
+- CSS
+
+## 🔭 What I'm currently working on
+
+I'm currently working on a few personal projects, including:
+
+- [Project 1](https://github.com/tmjonker/burger_bonanza-frontend): [The front-end for my fictitious restaurant called Burger Bonanza.]
+- [Project 2](https://github.com/tmjonker/burger_bonanza_combined): [The back-end for my fictitious restaurant called Burger Bonanza.]
+- [Project 3](https://github.com/tmjonker/angular_portfolio): [My person portfolio.]
+
+## 🌱 What I'm currently learning
+
+I'm always learning and experimenting with new technologies and programming languages. At the moment, I'm focusing on:
+
+- [Technology 1](https://angular.io/): [Angular is an open-source web application framework that enables developers to build dynamic, single-page applications using HTML, TypeScript, and other web technologies.]
+- [Technology 2](https://spring.io/): [Spring Boot is a popular open-source framework for building Java-based web applications, providing a streamlined development experience and a range of features for developing and deploying robust, production-grade applications.]
+
+## 👯‍♀️ Collaborating
+
+I'm always open to collaborating on interesting projects. If you have an idea or project that you think I might be interested in, feel free to get in touch!
+
+## 📫 How to reach me
+
+You can reach me via email at [tmjonker8@gmail.com](mailto:tmjonker8@gmail.com), or follow me on [LinkedIn](https://linkedin.com/in/tmjonker8).
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=tmjonker&show_icons=true&theme=radical)
+
+Thanks for stopping by!
