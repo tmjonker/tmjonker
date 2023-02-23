@@ -26,8 +26,8 @@ I'm currently working on a few personal projects, including:
 
 I'm always learning and experimenting with new technologies and programming languages. At the moment, I'm focusing on:
 
-- [Angular](https://angular.io/): [Angular is an open-source web application framework that enables developers to build dynamic, single-page applications using HTML, TypeScript, and other web technologies.]
-- [Spring Boot](https://spring.io/): [Spring Boot is a popular open-source framework for building Java-based web applications, providing a streamlined development experience and a range of features for developing and deploying robust, production-grade applications.]
+- [Angular](https://angular.io/): Angular is an open-source web application framework that enables developers to build dynamic, single-page applications using HTML, TypeScript, and other web technologies.
+- [Spring Boot](https://spring.io/): Spring Boot is a popular open-source framework for building Java-based web applications, providing a streamlined development experience and a range of features for developing and deploying robust, production-grade applications.
 
 ## 👯‍♀️ Collaborating
 
