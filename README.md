@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-My name is Tim Jonker, a software developer based in [Manassas, VA]. Welcome to my GitHub profile!
+My name is Tim Jonker, a software developer based in Manassas, VA. Welcome to my GitHub profile!
 
 ## 👨‍💻 Technologies and Tools
 
@@ -18,16 +18,16 @@ I primarily work with the following technologies and tools:
 
 I'm currently working on a few personal projects, including:
 
-- [Project 1](https://github.com/tmjonker/burger_bonanza-frontend): [The front-end for my fictitious restaurant called Burger Bonanza.]
-- [Project 2](https://github.com/tmjonker/burger_bonanza_combined): [The back-end for my fictitious restaurant called Burger Bonanza.]
-- [Project 3](https://github.com/tmjonker/angular_portfolio): [My person portfolio.]
+- [Burger Bonanza Front-end](https://github.com/tmjonker/burger_bonanza-frontend): The front-end for my fictitious restaurant called Burger Bonanza.
+- [Burger Bonanza Back-end](https://github.com/tmjonker/burger_bonanza_combined): The back-end for my fictitious restaurant called Burger Bonanza.
+- [Personal Portfolio](https://github.com/tmjonker/angular_portfolio): My person portfolio.
 
 ## 🌱 What I'm currently learning
 
 I'm always learning and experimenting with new technologies and programming languages. At the moment, I'm focusing on:
 
-- [Technology 1](https://angular.io/): [Angular is an open-source web application framework that enables developers to build dynamic, single-page applications using HTML, TypeScript, and other web technologies.]
-- [Technology 2](https://spring.io/): [Spring Boot is a popular open-source framework for building Java-based web applications, providing a streamlined development experience and a range of features for developing and deploying robust, production-grade applications.]
+- [Angular](https://angular.io/): [Angular is an open-source web application framework that enables developers to build dynamic, single-page applications using HTML, TypeScript, and other web technologies.]
+- [Spring Boot](https://spring.io/): [Spring Boot is a popular open-source framework for building Java-based web applications, providing a streamlined development experience and a range of features for developing and deploying robust, production-grade applications.]
 
 ## 👯‍♀️ Collaborating
 
