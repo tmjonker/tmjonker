@@ -20,7 +20,8 @@ I'm currently working on a few personal projects, including:
 
 - [Burger Bonanza Front-end](https://github.com/tmjonker/burger_bonanza-frontend): The front-end for my fictitious restaurant called Burger Bonanza.
 - [Burger Bonanza Back-end](https://github.com/tmjonker/burger_bonanza_combined): The back-end for my fictitious restaurant called Burger Bonanza.
-- [Personal Portfolio](https://github.com/tmjonker/angular_portfolio): My person portfolio.
+- [Social+ Front-end](https://github.com/tmjonker/social_plus_frontend): The front-end for a new social media application that I'm developing.
+- [Social+ Back-end](https://github.com/tmjonker/social_plus_frontend): The back-end for a new social media application that I'm developing.
 
 ## 🌱 What I'm currently learning
 
